@@ -1,0 +1,1 @@
+@import "tailwindcss"; @theme { --color-wine: #5c1a2b; --color-champagne: #f7f3ed; --color-gold: #d4af37; --color-wine-dark: #3a0f19; } body { background-color: var(--color-champagne); color: var(--color-wine-dark); font-family: system-ui, sans-serif; }
